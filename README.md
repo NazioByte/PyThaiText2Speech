@@ -1,4 +1,5 @@
-# pytext2speech
+# PyThaiText2Speech
+
 Thai &amp; English Text to Speech Processing for Python
 
 # Feature 
